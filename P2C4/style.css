@@ -38,13 +38,10 @@ li {
 .cta {
   background: linear-gradient(#8e86b5, #acaeed);
   color: white;
+  border-radius: 50px;
 }
-div{
-    border-radius: 50px;
-}
-
-.description {
-    border-right: 1px solid #8e86b5;
-    border-bottom: 1px solid #8e86b5;
-
+.aproposcadre{
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  border-color: #8e86b5;
 }
